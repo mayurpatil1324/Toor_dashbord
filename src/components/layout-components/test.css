@@ -1,0 +1,5 @@
+.ant-menu-submenu-title:hover {
+    .ant-menu-submenu-arrow::before, .ant-menu-submenu-arrow::after {
+        background-color: red!important;
+    }
+}
